@@ -1,21 +1,35 @@
-Student Table Management App
+🎨 Student Table UI (CSS)
 
-A simple and responsive Student Table Management Application built using HTML, CSS, and JavaScript.
-This project allows users to add, edit, delete, and search student records in a table with a clean UI.
+This project contains the CSS styling for a Student Table Management Interface.
+It provides a modern, responsive, and clean user interface for displaying and managing student data in a table format.
 
-🚀 Features
+The design includes a gradient layout, responsive table, modal form styling, and interactive buttons.
 
-➕ Add new student records
-✏️ Edit existing student details
-❌ Delete student records
-🔍 Search students instantly
-📊 Responsive student table layout
-💬 Modal form for adding/editing students
-⚠️ Form validation with error messages
-🎨 Modern UI with gradient design
+✨ Features
 
-🛠️ Technologies Used
+Modern gradient background UI
+Responsive student table layout
+Styled search input
+Primary and secondary action buttons
+Edit and Delete buttons with hover effects
+Modal popup design for forms
+Form validation styling
+Loading spinner animation
+Mobile responsive layout
+🧱 UI Components Styled
 
-HTML5
-CSS3
-JavaScript (Vanilla JS)
+The stylesheet includes styles for:
+
+App container
+Header section
+Search bar
+Buttons
+Data table
+Table actions
+Modal overlay
+Form inputs
+Error messages
+
+Loading screen
+
+Responsive design
